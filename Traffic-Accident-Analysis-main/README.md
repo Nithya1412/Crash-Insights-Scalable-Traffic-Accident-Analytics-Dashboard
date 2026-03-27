@@ -8,7 +8,7 @@
  ## Local Setup Instructions
 
 ```bash
-- git clone https://github.com/Thanmaireddy03/Traffic-Accident-Analysis.git
+- git clone https://github.com/Nithya1412/Crash-Insights-Scalable-Traffic-Accident-Analytics-Dashboard.git
 - cd Traffic-accident-analysis
 - pip install -r requirements.txt
 - streamlit run app_with_map.py
