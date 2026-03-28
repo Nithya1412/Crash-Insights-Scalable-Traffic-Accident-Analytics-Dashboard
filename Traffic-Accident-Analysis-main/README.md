@@ -2,7 +2,7 @@
 
 ## Deployment Link
 
-(https://my-crash-dashboard.streamlit.app/)
+https://my-crash-dashboard.streamlit.app/
  
  
  ## Local Setup Instructions
