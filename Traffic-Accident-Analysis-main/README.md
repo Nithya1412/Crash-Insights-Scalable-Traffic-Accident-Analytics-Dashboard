@@ -2,7 +2,7 @@
 
 ## Deployment Link
 
- [https://traffic-accident-analysis.streamlit.app/](https://traffic-accident-analysis.streamlit.app/)  
+(https://my-crash-dashboard.streamlit.app/)
  
  
  ## Local Setup Instructions
